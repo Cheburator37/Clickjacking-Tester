@@ -1,6 +1,6 @@
 # Contributor(s): nigella (@nig)
 
-from urllib.request import urlopen
+from urllib import urlopen
 from sys import argv, exit
 
 __author__ = 'D4Vinci'
